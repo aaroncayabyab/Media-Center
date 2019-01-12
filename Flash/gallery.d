@@ -1,0 +1,9 @@
+.\flash\gallery.o: gallery.c
+.\flash\gallery.o: .\inc\LPC17xx.H
+.\flash\gallery.o: .\inc\core_cm3.h
+.\flash\gallery.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\flash\gallery.o: .\inc\system_LPC17xx.h
+.\flash\gallery.o: .\inc\LPC17xx.h
+.\flash\gallery.o: GLCD.h
+.\flash\gallery.o: LED.h
+.\flash\gallery.o: KBD.h
