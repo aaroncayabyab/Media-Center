@@ -6,10 +6,7 @@ Features include a
 - mp3 player that streams audio from PC
 - snake game with varying levels of difficulty and lose scenario
 
+<img src="Images/menu.JPG" width="318" height="226"> <img src="Images/gallery.JPG" width="318" height="226">
+<img src="Images/mp3.JPG" width="318" height="226"> <img src="Images/snake.JPG" width="318" height="226">
 
-![Menu Image](images/menu.JPG)
-![Gallery Image](images/gallery.JPG)
-
-![Audio Image](images/mp3.JPG)
-![Snake Image](images/snake.JPG)
 
